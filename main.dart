@@ -5,4 +5,7 @@ void main() {
   print(name);
   print(userName);
   print(age);
+
+  var nullTest;
+  print(nullTest);
 }
